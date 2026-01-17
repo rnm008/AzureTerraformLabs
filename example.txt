@@ -1,4 +1,4 @@
 oh, nano works, cool.
 messing with branches 1
 messing with branches in dev2
-
+messing with deleting branches 
